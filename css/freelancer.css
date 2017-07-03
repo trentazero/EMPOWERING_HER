@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #FFD800;
   color: white;
 }
 header .container {
@@ -240,6 +240,18 @@ section.success {
     margin: 0 0 30px;
   }
 }
+
+#StoryTelling{
+  background: #FF772C;
+  color: white;
+}
+
+#WebComic{
+background: white;
+color: black;
+}
+
+
 .floating-label-form-group {
   position: relative;
   margin-bottom: 0;
